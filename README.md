@@ -6,4 +6,4 @@ This repository is an implementation of virtually trying out different outfits b
 
 
 ## Demo Output
-<img src="https://github.com/NSTiwari/Virtual-Try-Out-Imagen3/blob/main/assets/Imagen3_Virtual_Try_Out.gif"/>
+<img src="https://github.com/NSTiwari/Virtual-Try-Out-Imagen3/blob/main/assets/Imagen3_Virtual_Try_On.gif"/>
