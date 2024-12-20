@@ -15,5 +15,5 @@ This repository is an implementation of virtually trying on different outfits by
 2. [Imagen 3 Technical Report](https://storage.googleapis.com/deepmind-media/imagen/imagen_3_tech_report_update_dec2024_v2.pdf#page=26)
 3. Colab Notebook: 
    [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NSTiwari/Virtual-Try-On-Imagen3/blob/main/Virtual_Try_On_Imagen3.ipynb)
-4. [**Medium Blog**](https://tiwarinitin1999.medium.com/yes-gemini-can-do-object-detection-7ffc5a25b896) for step-by-step implementation.
+4. [**Medium Blog**](https://tiwarinitin1999.medium.com/virtual-try-on-with-imagen-3-bd938acd4ec5) for step-by-step implementation.
 5. [Notebook example](https://github.com/GoogleCloudPlatform/generative-ai/blob/main/vision/getting-started/imagen3_editing.ipynb): Google Cloud Platform repository
