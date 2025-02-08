@@ -20,6 +20,6 @@ This repository is an implementation of virtually trying on different outfits by
 
 
 # Acknowledgment:
-<img src="https://github.com/NSTiwari/Virtual-Try-On-Imagen3/blob/main/google.png">
+<img src="https://github.com/NSTiwari/Virtual-Try-On-Imagen3/assets/blob/main/google.png">
 
 This project was developed as part of Google's ML Developer Programs Vertex AI sprint. Thanks to the MLDP Team for their generous support in providing GCP credits and Colab units to help facilitate this project.
